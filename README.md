@@ -1,2 +1,2 @@
 #PlainCV
-as the name suggest PlainCV is my plain-text-portfolio by just using HTML.
+as the name suggests PlainCV is my plain-text-portfolio (no styling, nothing just simple formatting) by just using HTML.
